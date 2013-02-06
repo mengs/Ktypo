@@ -19,7 +19,7 @@ float thres;
 
 void setup() {
   // Initilaize the sketch
-  size(1000, 800);
+  size(1000, 600);
   frameRate(10);
 
   // Choice of colors
